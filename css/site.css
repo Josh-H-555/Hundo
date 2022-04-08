@@ -64,6 +64,10 @@ main>.container {
     margin-bottom: 5rem;
 }
 
+.even {
+    font-weight: bold;
+}
+
 .sticky-footer {
     position: sticky;
     left: 0;
